@@ -1,7 +1,7 @@
-# ROBarcodeScanner
+cd # ROBarcodeScanner
 Scans different Barcodes and returns the result as String. Inspired by the Tutorial from Appcoda: [AppCoda](http://www.appcoda.com/qr-code-reader-swift/).
 
-## Installation
+## Installation!!!!
 
 ROBarcodeScanner is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:

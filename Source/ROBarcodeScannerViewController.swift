@@ -84,8 +84,8 @@ public class ROBarcodeScannerViewController: UIViewController, AVCaptureMetadata
         
         // Initialize QR Code Frame to highlight the QR code
         qrCodeFrameView = UIView()
-        qrCodeFrameView?.layer.borderColor = UIColor.redColor().CGColor
-        qrCodeFrameView?.layer.borderWidth = 2
+        qrCodeFrameView?.layer.borderColor = UIColor.greenColor().CGColor
+        qrCodeFrameView?.layer.borderWidth = 6
         qrCodeFrameView?.autoresizingMask = [UIViewAutoresizing.FlexibleTopMargin, UIViewAutoresizing.FlexibleBottomMargin, UIViewAutoresizing.FlexibleLeftMargin, UIViewAutoresizing.FlexibleRightMargin]
         
         view.addSubview(qrCodeFrameView!)
